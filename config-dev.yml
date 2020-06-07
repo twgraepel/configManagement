@@ -1,6 +1,6 @@
 limit:
   minimum=10
   maximum=20
-custom
+custom:
   version=1.0.1
   greeting=Hello from the config server dev
